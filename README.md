@@ -1,4 +1,4 @@
-# Centauri-Carbon-Plotter
+# Centauri Carbon Plotter
 Use the Elegoo Centauri Carbon as a Pen Plotter!
 
 This repo will soon include 3d models required to use your centauri carbon as a pen plotter.
